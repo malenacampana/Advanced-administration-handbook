@@ -63,7 +63,7 @@ _**Note:** These instructions are written for phpMyAdmin 4.4; the phpMyAdmin use
         3. Choose a secure password (ideally containing a combination of upper- and lower-case letters, numbers, and symbols), and enter it in the **Password** field. (Be sure **Use text field**: is selected from the dropdown.) Re-enter the password in the **Re-type** field.
         4. Write down the username and password you chose.
         5. Leave all options under **Global privileges** at their defaults.
-        6. Click **Go**.
+        6. Click **Go**..
         7. Return to the Users screen and click the **Edit privileges** icon on the user you've just created for WordPress.
         8. In the **Database-specific privileges** section, select the database you've just created for WordPress under the **Add privileges to the following database** dropdown, and click Go.
         9. The page will refresh with privileges for that database. Click **Check All** to select all privileges, and click **Go**.
